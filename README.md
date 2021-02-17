@@ -1,1 +1,1 @@
-In this repo, I have used Fastai Tabular API, and then used SHAP for monitorig the model behaviour.
+In this repo, I have used Fastai Tabular API, and then used SHAP for monitoring the model behaviour.
